@@ -1,0 +1,5 @@
+streamlit>=1.38.0
+openai-whisper
+ollama>=0.3.0
+backboard-sdk
+python-dotenv
